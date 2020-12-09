@@ -6,6 +6,7 @@
 구글에서 발표한 '구글 플레이스토어'에 사용된 추천 모델입니다.
 - linear 모델의 장점과 neural network(신경망)의 장점을 합쳤습니다.
 - 즉, 선형 모델의 저장법(memorization)과 신경망의 일반화(generalization)의 강점을 합친 모델입니다.
+- wide and deep model tensorflow 2.0 (tensorflow 2.x)
 
 ## The spectrum of Wide & Deep models
 ![The spectrum of Wide & Deep models.](https://user-images.githubusercontent.com/21326503/92676863-7180dc80-f35d-11ea-904c-fb54545a756a.png)
